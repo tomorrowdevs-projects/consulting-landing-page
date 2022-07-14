@@ -1,17 +1,17 @@
-Create a Landing Page using the attached mockup file.
+Create a copy of Landing Page using the attached mockup file.
 ===============================
-
-![preview](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page/blob/main/preview.png "preview")
-
-## Download here the [Figma Mockup](https://github.com/tomorrowdevs-projects/hotel-booking-landing-page/blob/main/Hotel_Booking_Freebie.fig)
 
 Requirements:
 ----------------
 - Create the Landing Page for Desktop view
+- Create the Landing Page for Mobile view
 - Respect exactly the provided layout
 - Deploy the project towards Netlify (www.netlify.com) connected to your GitHub Repo
+- Provide the navigation of FAQ section with sample data and animations
+- "Load More" button should load additional sample data
+- "Featured" section should provide a slide experience with sample data
+- Login section should do a basic validation with error management
 - The page should have an efficient SEO level
-- Write CSS following BEM Methodology
 - After the project is deployed, analyze it with https://web.dev
 
 
@@ -20,12 +20,14 @@ Knowledge Required for the Project:
 ----------------
 - Basic HTML
 - CSS Flexbox
-- BEM Methodology
+- CSS Animations and transitions
+- Responsiveness Rules
 - SVG integration
 - Rounded Images
 - External Fonts integration
 - Figma Usage
 - SEO rules and Metatags
+- Javascript syntax and function to handle: accordions, sliders, form validation
 
 
 Before starting any of the tasks in this Learning Path, please READ the following rules

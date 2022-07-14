@@ -1,6 +1,8 @@
 Create a copy of Landing Page using the attached mockup file.
 ===============================
 
+![preview](./preview.png)
+
 Requirements:
 ----------------
 - Create the Landing Page for Desktop view
